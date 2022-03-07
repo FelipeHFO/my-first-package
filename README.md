@@ -13,14 +13,13 @@ Clique aqui para ir na publicação [ClearString - NPM](https://www.npmjs.com/pa
 
 ### Executando o projeto
 
-* No seu terminal, vá até a pasta <b>test/</b> onde o arquivo index.js esta.
-* Execute o comando `node index.js`
+* Clone o projeto.
+* Execute o comando `npm i` na pasta <b>test</b>.
+* Execute o comando `node index.js` na <b>test</b>.
 
 ## Observações
 
-* É necessário ter o Node instalado.
-* Você pode executar o projeto com o comando `node CaminhoRelativoDoArquivoIndex`.
-Exemplo: se estiver na pasta desse projeto do Github basta executar o comando `node test/index.js`.
+* É necessário ter o [Node](https://nodejs.org/en/) instalado.
 
 ## Espero ter ajudado alguém!
 
