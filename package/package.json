@@ -1,0 +1,11 @@
+{
+  "name": "clearstring-felipehfo",
+  "version": "1.0.8",
+  "description": "functions that will clean up your string the way you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Oliveira",
+  "license": "MIT"
+}
