@@ -15,7 +15,7 @@ Clique aqui para ir na publicação [ClearString - NPM](https://www.npmjs.com/pa
 
 * Clone o projeto.
 * Execute o comando `npm i` na pasta <b>test</b>.
-* Execute o comando `node index.js` na <b>test</b>.
+* Execute o comando `node index.js` na pasta <b>test</b>.
 
 ## Observações
 

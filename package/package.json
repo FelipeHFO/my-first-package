@@ -1,6 +1,6 @@
 {
   "name": "clearstring-felipehfo",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "functions that will clean up your string the way you want",
   "main": "index.js",
   "scripts": {
