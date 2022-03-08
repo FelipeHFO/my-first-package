@@ -1,11 +1,25 @@
 {
   "name": "clearstring-felipehfo",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "functions that will clean up your string the way you want",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node package/index.js"
   },
+  "keywords": [
+    "string",
+    "regex",
+    "replace"
+  ],
   "author": "Felipe Oliveira",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FelipeHFO/my-first-package.git",
+    "directory": "package"
+  },
+  "bugs": {
+    "url": "https://github.com/FelipeHFO/my-first-package/issues"
+  },
+  "homepage": "https://github.com/FelipeHFO/my-first-package/blob/main/README.md"
 }
